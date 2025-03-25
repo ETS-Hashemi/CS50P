@@ -6,7 +6,7 @@
 
 #### Description:
 
-I built this project as my final assignment for CS50P to practice Python programming and reinforce what I learned throughout the course. This Investment Management System is a text-based application that lets users create and manage multiple brokerage accounts, deposit or withdraw funds in different currencies, and buy or sell securities. It also generates a summary report of all accounts and their holdings. My goal was to create a project that would be both practical and relatively comprehensive, making use of classes, functions, error handling, and a textual user interface (TUI).
+I built this project as my final assignment for CS50P at Harvard University to practice Python programming and reinforce what I learned throughout the course. This Investment Management System is a text-based application that lets users create and manage multiple brokerage accounts, deposit or withdraw funds in different currencies, and buy or sell securities. It also generates a summary report of all accounts and their holdings. My goal was to create a project that would be both practical and relatively comprehensive, making use of classes, functions, error handling, and a textual user interface (TUI).
 
 The application runs in the terminal and uses the `npyscreen` library to display menus, forms, and dialogs. I chose `npyscreen` because it provides a structured way to build text-based UIs without having to manage all the cursor movements and user input parsing manually. It also helps keep the application more user-friendly for those who run it directly in the command line.
 
