@@ -1,6 +1,6 @@
 # CS50P Investment Management System
 
-#### Video Demo: <URL HERE>
+#### Video Demo: https://youtu.be/-cVT8JhvvPM
 
 #### Description:
 
